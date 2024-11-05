@@ -1,4 +1,4 @@
-# AI Resume Analyzer and Job Matcher
+# AI Resume Analyzer with a Job Matcher
 
 This project uses NLP to analyze uploaded resumes and match them with relevant job postings.
 
